@@ -1,0 +1,18 @@
+{
+  "name": "beautiful-safari-extension-backend",
+  "version": "1.0.0",
+  "description": "Secure backend API for Beautiful Safari Extension",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vercel dev"
+  },
+  "dependencies": {
+    "@google/generative-ai": "^0.21.0"
+  },
+  "devDependencies": {
+    "vercel": "^37.0.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
